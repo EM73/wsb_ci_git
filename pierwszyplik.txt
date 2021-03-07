@@ -1,2 +1,4 @@
 pierwsza linijka 
 Druga linijka
+Trzecia
+Czwqarty do cklona
